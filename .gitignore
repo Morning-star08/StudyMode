@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+desktop.ini
+
+scripts-env/
+
+study_streak.json
+study_notes.json
+study_tracker.xlsx
+reset_backup_*/
+tempCodeRunnerFile.py
+
+*.log
