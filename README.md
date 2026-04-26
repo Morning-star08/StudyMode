@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi, I'm Krish Baral
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00ffe7,100:7c3aed&text=Krish%20Baral&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Designer&descAlignY=58&descSize=18)
 
-### Python Developer | AI & Machine Learning Explorer | Creative Designer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FFE7&center=true&vCenter=true&width=850&lines=Building+useful+Python+tools;Exploring+Machine+Learning+and+AI;Designing+clean+digital+experiences;Learning+every+day%2C+one+project+at+a+time)](https://git.io/typing-svg)
 
-I build practical tools, playful automations, and clean digital experiences. Right now, I am sharpening my skills in Python, C++, Java, Machine Learning, and AI Engineering while also bringing a designer's eye to the things I create.
+<br>
 
-<img alt="Coding" width="420" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1uYWU2bWVjMzc4bHNnMWkzLmdpZg.gif">
+[![Email](https://img.shields.io/badge/Email-baralchris53%40gmail.com-00ffe7?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:baralchris53@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-krish__baral08-ff4f8b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krish_baral08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-morning--star08-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/morning-star08)
 
 </div>
 
@@ -14,64 +16,84 @@ I build practical tools, playful automations, and clean digital experiences. Rig
 
 ## About Me
 
-I am a curious and hardworking developer who enjoys turning ideas into useful projects. My current focus is Python development, AI engineering, and machine learning, but I also love exploring web design, automation, and creative coding.
+I am Krish Baral, a curious developer who likes building things that are useful, clean, and a little bit fun. My main focus right now is Python development, Machine Learning, and AI Engineering, but I also enjoy automation, web design, and creative digital work.
 
-Outside code, I work with Photoshop and Illustrator, design graphics, read books and novels, and keep learning whatever helps me become more skilled, thoughtful, and creative.
+I come from both code and design: I like writing scripts that solve real problems, and I also enjoy shaping visuals in Photoshop and Illustrator. That mix keeps my projects practical, but still expressive.
 
-## Current Focus
+## What I Am Focused On
 
-- Building stronger foundations in Python development
-- Learning C++, Java, Machine Learning, and AI Engineering
-- Creating automation projects that solve real problems
-- Improving my design taste through web graphics, posters, logos, and UI ideas
-- Becoming a more consistent and disciplined engineer every week
+- Python development and automation projects
+- Machine Learning, AI Engineering, and computer vision
+- C++, Java, and stronger programming fundamentals
+- Clean web interfaces and creative UI ideas
+- Graphic design, posters, logos, and visual storytelling
+
+## Tech Stack
+
+<div align="center">
+
+### Languages And Frameworks
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=ffd43b)
+![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=6295cb)
+![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f89820)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Bash](https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=4eaa25)
+![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=44b78b)
+![Flask](https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=ffffff)
+
+### AI, Data And Vision
+
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5c3ee8)
+![MATLAB](https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=ff7f00)
+
+### Design Tools
+
+![Photoshop](https://img.shields.io/badge/Photoshop-172033?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff)
+![Illustrator](https://img.shields.io/badge/Illustrator-172033?style=for-the-badge&logo=adobeillustrator&logoColor=ff9a00)
+
+</div>
 
 ## What I Like Building
 
-- Python utilities and productivity tools
-- AI and machine learning experiments
-- Automation scripts that make daily work easier
-- Clean web interfaces with strong visual design
-- Creative tech projects that mix logic and design
+| Area | What I enjoy making |
+| --- | --- |
+| Automation | Small tools that save time and remove boring repeated work |
+| AI and ML | Experiments that help me understand models, data, and real-world problem solving |
+| Python Apps | Personal productivity tools, study systems, and desktop utilities |
+| Web Design | Clean pages, strong layouts, and interfaces that feel intentional |
+| Graphics | Posters, logos, and visuals that turn rough ideas into something people notice |
 
-## Connect With Me
+## Current Learning Path
 
-<p align="left">
-  <a href="https://fb.com/krish baral" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Krish Baral on Facebook" height="32" width="42" />
-  </a>
-  <a href="https://instagram.com/krish_baral08" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish_baral08 on Instagram" height="32" width="42" />
-  </a>
-  <a href="https://www.leetcode.com/morning-star08" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="morning-star08 on LeetCode" height="32" width="42" />
-  </a>
-</p>
+```text
+Python foundations  ->  Data handling  ->  ML basics  ->  AI engineering
+Design fundamentals ->  Better UI taste ->  Cleaner project presentation
+Problem solving     ->  C++ and Java    ->  Stronger logic and algorithms
+```
 
-**Email:** `baralchris53@gmail.com`
+## GitHub Energy
 
-## Languages And Tools
+<div align="center">
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="42" height="42"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="42" height="42"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42"/></a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="42" height="42"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="42" height="42"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="42" height="42"/></a>
-</p>
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morning-star08&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffe7&icon_color=00ffe7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morning-star08&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffe7)
+
+</div>
 
 ## A Little More About Me
 
-I like projects that feel useful and creative at the same time. Code gives me the logic, design gives me the emotion, and learning gives me the momentum. Whether I am debugging a Python script, sketching a poster, solving a problem, or reading a novel, I am always trying to sharpen the way I think.
+When I am not coding, I am usually designing, reading, or learning something new. I like the feeling of slowly getting better at a craft: one bug fixed, one concept understood, one design improved, one project finished.
 
 > Always learning. Always building. Always improving.
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,100:00ffe7)
+
+</div>
 
